@@ -8,5 +8,6 @@ dependencies = []
 
 [dependency-groups]
 dev = [
+    "grip>=4.6.2",
     "ruff>=0.13.1",
 ]
